@@ -1,0 +1,17 @@
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.csproj.AssemblyReference.cache
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.Properties.Resources.resources
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.csproj.GenerateResource.cache
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.csproj.CoreCompileInputs.cache
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\bin\Debug\BibliotecaDB.exe.config
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\bin\Debug\BibliotecaDB.exe
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\bin\Debug\BibliotecaDB.pdb
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\bin\Debug\System.Data.SqlClient.dll
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\bin\Debug\System.Data.SqlClient.xml
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.Menu.Menu.resources
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.Usuario.Registrar_Usuario.resources
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\Bibliote.EF2F5B66.Up2Date
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.exe
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.pdb
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.Libros.Gestor_Libros.resources
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\BibliotecaDB.Reservas.Reservar_Libro.resources
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\BibliotecaDB\obj\Debug\Gestor_Libro.FormLibros.resources
